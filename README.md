@@ -3,8 +3,9 @@
 - 👨🏻‍💻 Me chamo Arthur, tenho 24 anos, e sou estudante de Ciência da Computação pela UFCG.
 - 🔭 Atualmente estou no 6º período.
 - 🤔 Tenho interesse em me aprofundar nas áreas de DevOps e/ou Inteligência Artificial.
+- 🧠 Aqui é possível encontrar um pouco dos projetos que eu estou trabalhando no momento.
 
-##
+## Ferramentas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
