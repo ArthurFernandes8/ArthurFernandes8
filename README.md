@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil do GitHub! 👋
 
-- 👨🏻‍💻 Me chamo Arthur, tenho 24 anos, e sou estudante de Ciência da Computação pela UFCG.
+- 👨🏻‍💻 Me chamo Arthur e sou estudante de Ciência da Computação pela UFCG.
 - 🔭 Atualmente estou no 6º período.
 - 🤔 Tenho interesse em me aprofundar nas áreas de DevOps e/ou Inteligência Artificial.
 - 🧠 Aqui é possível encontrar um pouco dos projetos que eu estou trabalhando no momento.
