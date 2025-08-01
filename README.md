@@ -17,9 +17,6 @@
   <img align="center" alt="Arthur-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-##
-
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFernandes8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
  
