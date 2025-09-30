@@ -3,7 +3,7 @@
 - 👨🏻‍💻 Estudante de Ciência da Computação pela UFCG.
 - 🔭 Atualmente estou no 6º período.
 - 🤔 Sempre em busca de novos aprendizados.
-- 🧠 Aqui é possível encontrar alguns dos projetos que estou trabalhando no momento.
+- 🚀 Aqui é possível encontrar alguns dos projetos que estou trabalhando no momento.
 ##
 
 ### 📌 Tools:
