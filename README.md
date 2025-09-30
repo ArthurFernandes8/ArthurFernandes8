@@ -2,8 +2,8 @@
 
 - 👨🏻‍💻 Estudante de Ciência da Computação pela UFCG.
 - 🔭 Atualmente estou no 6º período.
-- 🤔 Tenho interesse em me aprofundar nas áreas de DevOps e/ou Inteligência Artificial.
-- 🧠 Aqui é possível encontrar um pouco dos projetos que eu estou trabalhando no momento.
+- 🤔 Sempre em busca de novos aprendizados.
+- 🧠 Aqui é possível encontrar alguns dos projetos que estou trabalhando no momento.
 ##
 
 ### 📌 Tools:
