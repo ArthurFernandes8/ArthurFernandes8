@@ -1,8 +1,6 @@
-## Olá! Seja bem-vindo(a) ao meu perfil do GitHub! 👋
+## Olá! Bem vindo(a) ao meu perfil do Github 👋
 
-- 👨🏻‍💻 Estudante de Ciência da Computação pela UFCG.
-- 🔭 Atualmente estou no 6º período.
-- 🤔 Sempre em busca de novos aprendizados.
+- 👨🏻‍💻 Sou estudante de Ciência da Computação pela UFCG.
 - 🚀 Aqui é possível encontrar alguns dos projetos que estou trabalhando no momento.
 ##
 
