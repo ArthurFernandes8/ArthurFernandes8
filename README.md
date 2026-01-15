@@ -1,7 +1,10 @@
 # 👋 Olá, bem-vindo ao meu perfil!
 
-💻 Desenvolvedor com foco em back-end, interessado em construir aplicações bem estruturadas, com boas práticas e código limpo.  
-🚀 Atualmente estudando e desenvolvendo projetos com Java, Spring Boot e banco de dados relacionais.
+💻 Desenvolvedor com foco em back-end. 
+🚀 Atualmente desenvolvendo projetos com Java, Spring Boot e banco de dados relacionais.
+🎓 Acadêmico de Ciência da Computação, sempre buscando unir teoria e prática através de projetos reais.
+
+
 
 ---
 
@@ -16,7 +19,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 📌 Conhecimentos e Práticas
 - Java avançado e boas práticas
 - Spring Boot (REST APIs, validações, testes)
 - Arquitetura em camadas (Controller, Service, Repository)
