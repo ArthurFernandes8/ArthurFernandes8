@@ -1,19 +1,46 @@
-## Olá! Bem vindo(a) ao meu perfil do Github 👋
+# 👋 Olá, eu sou o Arthur
 
-- 👨🏻‍💻 Sou estudante de Ciência da Computação pela UFCG.
-- 🚀 Aqui é possível encontrar alguns dos projetos que estou trabalhando no momento.
-##
+💻 Desenvolvedor com foco em back-end, interessado em construir aplicações bem estruturadas, com boas práticas e código limpo.  
+🚀 Atualmente estudando e desenvolvendo projetos com Java, Spring Boot e banco de dados relacionais.
 
-### 📌 Stack:
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Arthur-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Arthur-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Arthur-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 Atualmente estudando
+- Java avançado e boas práticas
+- Spring Boot (REST APIs, validações, testes)
+- Arquitetura em camadas (Controller, Service, Repository)
+- Testes automatizados com MockMvc
+- Containers com Docker
+- Desenvolvimento web com WordPress
+
+---
+
+## 📌 Sobre meus projetos
+Aqui você vai encontrar:
+- APIs REST desenvolvidas com Spring Boot
+- Projetos acadêmicos e pessoais
+- Estudos práticos de back-end e banco de dados
+- Experimentos com Linux e Docker
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/seu-usuario
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios
 
 
 ##
