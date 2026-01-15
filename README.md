@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Arthur
+# 👋 Olá, bem-vindo ao meu perfil!
 
 💻 Desenvolvedor com foco em back-end, interessado em construir aplicações bem estruturadas, com boas práticas e código limpo.  
 🚀 Atualmente estudando e desenvolvendo projetos com Java, Spring Boot e banco de dados relacionais.
@@ -22,26 +22,10 @@
 - Arquitetura em camadas (Controller, Service, Repository)
 - Testes automatizados com MockMvc
 - Containers com Docker
-- Desenvolvimento web com WordPress
 
----
-
-## 📌 Sobre meus projetos
-Aqui você vai encontrar:
-- APIs REST desenvolvidas com Spring Boot
-- Projetos acadêmicos e pessoais
-- Estudos práticos de back-end e banco de dados
-- Experimentos com Linux e Docker
-
----
 
 ## 📫 Contato
 - GitHub: https://github.com/seu-usuario
-
----
-
-⭐ Fique à vontade para explorar meus repositórios
-
 
 ##
  
