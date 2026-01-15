@@ -1,7 +1,7 @@
 # 👋 Olá, bem-vindo ao meu perfil!
 
-💻 Desenvolvedor com foco em back-end. 
-🚀 Atualmente desenvolvendo projetos com Java, Spring Boot e banco de dados relacionais.
+💻 Desenvolvedor com foco em back-end.  
+🚀 Atualmente desenvolvendo projetos com Java, Spring Boot e bancos de dados relacionais.  
 🎓 Acadêmico de Ciência da Computação, sempre buscando unir teoria e prática através de projetos reais.
 
 
