@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 🛠️ Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -18,13 +19,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📌 Conhecimentos e Práticas
-- Java avançado e boas práticas
-- Spring Boot (REST APIs, validações, testes)
-- Arquitetura em camadas (Controller, Service, Repository)
-- Testes automatizados com MockMvc
-- Containers com Docker
 
 
 ## 📫 Contato
