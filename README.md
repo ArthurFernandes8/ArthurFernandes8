@@ -1,8 +1,8 @@
-# 👋 Olá, bem-vindo ao meu GitHub!
+# 👋 Bem-vindo ao meu GitHub!
 
 💻 Desenvolvedor de software.  
-🚀 Atualmente desenvolvendo projetos com Java, Spring Boot e bancos de dados relacionais.  
-🎓 Acadêmico de Ciência da Computação, sempre buscando unir teoria e prática através de projetos reais.
+🚀 Aqui é possível ver alguns dos projetos já concluídos.
+🎓 Acadêmico de Ciência da Computação, sempre buscando unir bagagem teórica e conhecimento prático através de projetos reais.
 
 
 ## 🛠️ Stack
@@ -15,6 +15,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📚 Estudando
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 Contato
 
