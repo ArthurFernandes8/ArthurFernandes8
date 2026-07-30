@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor de software.  
 🚀 Aqui é possível ver alguns dos projetos já concluídos.  
-🎓 Acadêmico de Ciência da Computação, sempre buscando unir bagagem teórica e conhecimento prático através de projetos reais.
+🎓 Acadêmico de Ciência da Computação, sempre buscando entregar valor e eficiência através de projetos reais.
 
 
 ## 🛠️ Stack
