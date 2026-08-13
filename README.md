@@ -1,8 +1,8 @@
 # Olá, sou Arthur Fernandes
 
-💻 Desenvolvedor de software.  
-🚀 Aqui é possível ver alguns dos projetos já concluídos.  
-🎓 Acadêmico de Ciência da Computação, sempre buscando entregar valor e eficiência através de projetos reais.
+💻 Desenvolvedor de software.    
+🎓 Acadêmico de Ciência da Computação, sempre buscando entregar valor e eficiência através de projetos reais.  
+🚀 Aqui é possível ver alguns dos projetos já concluídos.
 
 
 ## 🛠️ Stack
