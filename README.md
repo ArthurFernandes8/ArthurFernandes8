@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu GitHub!
+# Olá, sou Arthur Fernandes
 
 💻 Desenvolvedor de software.  
 🚀 Aqui é possível ver alguns dos projetos já concluídos.  
